@@ -141,16 +141,15 @@
             }
           },
           {
-            "id": "b3b0162696df1e42",
+            "id": "f6eb5941069894b4",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "note/物联网设备的定期睡眠与激活.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
