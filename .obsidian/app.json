@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "readableLineLength": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ],
+  "vimMode": true,
+  "alwaysUpdateLinks": true
+}
