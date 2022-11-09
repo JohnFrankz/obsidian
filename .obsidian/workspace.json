@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
-                "mode": "source",
+                "file": "OnJava8-zh-master/docs/ch8.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
+                "file": "OnJava8-zh-master/docs/ch8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
+                "file": "OnJava8-zh-master/docs/ch8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md"
+                "file": "OnJava8-zh-master/docs/ch8.md"
               }
             }
           }
@@ -154,7 +153,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54592b248ad60c3a",
+  "active": "d8824f6f3e7089cc",
   "lastOpenFiles": [
     "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
     "note/物联网设备的定期睡眠与激活.md",
