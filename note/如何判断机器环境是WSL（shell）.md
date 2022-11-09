@@ -9,11 +9,14 @@
    通过 `/proc/sys/fs/binfmt_misc/WSLInterop` 判断是否处于 `WSL` 环境是很好的方法。这也可能是最可靠的方法，因为这是 `Ubuntu` 的 [`Snapd`][Snapd] 项目使用的检测机制。此文件默认存在于 `WSL1` 和 `WSL2` 下。即使通过 `/etc/wsl.conf` 禁用了 `Interop`，该文件仍将由 WSL 在启动时创建。
 3. `grep -i WSL /proc/version`
    使用 `grep` 判断是否处于 `WSL` 环境:
+   ``` shell
+   $ grep -i WSL /proc/version
+   
+   ```
 
 
 
 在 `StackExchange` 上有关此问题更详细的解答：[`StackExchange`][StackExchange]
 
-<a
 [Snapd]: https://github.com/snapcore/snapd
 [StackExchange]:https://superuser.com/questions/1749781/how-can-i-check-if-the-environment-is-wsl-from-a-shell-script
