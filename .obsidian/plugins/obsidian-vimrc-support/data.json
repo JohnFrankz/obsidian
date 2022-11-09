@@ -1,7 +1,7 @@
 {
-  "vimrcFileName": ".obsidian.vimrc",
+  "vimrcFileName": ".vimrc",
   "displayChord": false,
-  "displayVimMode": true,
+  "displayVimMode": false,
   "fixedNormalModeLayout": false,
   "capturedKeyboardMap": {
     "KeyE": "e",
