@@ -1,13 +1,13 @@
 " No arrow keys --- force yourself to use the home row
-nmap <Left>  <CR>
-nmap <Right> <CR>
-nmap <Up>    <CR>
-nmap <Down>  <CR>
+nmap <Left>  <Nop>
+nmap <Right> <Nop>
+nmap <Up>    <Nop>
+nmap <Down>  <Nop>
 " ...and in insert mode
-imap <Left>  <ESC><CR>
-imap <Right> <ESC><CR>
-imap <Up>    <ESC><CR>
-imap <Down>  <ESC><CR>
+imap <Left>  <Nop>
+imap <Right> <Nop>
+imap <Up>    <Nop>
+imap <Down>  <Nop>
 
 vmap <C-S-C> "+y
 

@@ -12,8 +12,9 @@
    ``` shell
    $ grep -i WSL /proc/version
    
+   Linux version 5.10.16.3-microsoft-standard-WSL2 (oe-user@oe-host) (x86_64-msft-linux-gcc (GCC) 9.3.0, GNU ld (GNU Binutils) 2.34.0.20200220) #1 SMP Fri Apr 2 22:23:49 UTC 2021
    ```
-
+	如上：我们可以使用 `uname -r` 或者 `/proc/version` 来检查是否是 `WSL`, 
 
 
 在 `StackExchange` 上有关此问题更详细的解答：[`StackExchange`][StackExchange]
