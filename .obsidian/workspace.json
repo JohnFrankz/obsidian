@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/如何判断机器环境是WSL（shell）.md",
-                "mode": "preview",
+                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/如何判断机器环境是WSL（shell）.md",
+                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/如何判断机器环境是WSL（shell）.md",
+                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/如何判断机器环境是WSL（shell）.md"
+                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md"
               }
             }
           }
@@ -169,10 +169,10 @@
   "active": "7236bcbec0a763e9",
   "lastOpenFiles": [
     "note/物联网设备的定期睡眠与激活.md",
-    "OnJava8-zh-master/docs/ch8.md",
-    "note/如何判断机器环境是WSL（shell）.md",
-    "Snapd.md",
     "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
+    "note/如何判断机器环境是WSL（shell）.md",
+    "OnJava8-zh-master/docs/ch8.md",
+    "Snapd.md",
     "blog/Web/tomcat/tomcat log 中文乱码 以及将输出信息变为英文.md",
     "blog/未命名.md"
   ]
