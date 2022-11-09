@@ -1,15 +1,15 @@
 " No arrow keys --- force yourself to use the home row
-nnoremap <Left>  :echoe "Use h"<CR>
-nnoremap <Right> :echoe "Use l"<CR>
-nnoremap <Up>    :echoe "Use k"<CR>
-nnoremap <Down>  :echoe "Use j"<CR>
+nnoremap <Left>  <CR>
+nnoremap <Right> <CR>
+nnoremap <Up>    <CR>
+nnoremap <Down>  <CR>
 " ...and in insert mode
-inoremap <Left>  <ESC>:echoe "Use h"<CR>
-inoremap <Right> <ESC>:echoe "Use l"<CR>
-inoremap <Up>    <ESC>:echoe "Use k"<CR>
-inoremap <Down>  <ESC>:echoe "Use j"<CR>
+inoremap <Left>  <ESC><CR>
+inoremap <Right> <ESC><CR>
+inoremap <Up>    <ESC><CR>
+inoremap <Down>  <ESC><CR>
 
-vnoremap <C-S-Y> "+y
+vnoremap <C-S-V> "+y
 
 " Yank to system clipboard
 set clipboard=unnamed
