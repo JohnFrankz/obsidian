@@ -102,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md"
+              }
             }
           }
         ],
