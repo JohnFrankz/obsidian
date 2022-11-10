@@ -5,16 +5,16 @@
       "path": "note/物联网设备的定期睡眠与激活.md"
     },
     {
-      "basename": "处理机调度",
-      "path": "CSNote/408/操作系统/进程与线程/处理机调度.md"
-    },
-    {
       "basename": "Periodically ctivating and leeping evices in Internet of Things 简记",
       "path": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md"
     },
     {
       "basename": "ch6",
       "path": "OnJava8-zh-master/docs/ch6.md"
+    },
+    {
+      "basename": "处理机调度",
+      "path": "CSNote/408/操作系统/进程与线程/处理机调度.md"
     },
     {
       "basename": "ch2",

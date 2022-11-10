@@ -11,5 +11,5 @@
   "alwaysUpdateLinks": true,
   "showFrontmatter": false,
   "foldHeading": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": false
 }
