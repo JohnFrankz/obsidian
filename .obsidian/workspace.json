@@ -167,19 +167,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "7236bcbec0a763e9",
   "lastOpenFiles": [
-    "OnJava8-zh-master/docs/ch2.md",
+    "CSNote/未命名.md",
     "CSNote/408/操作系统/进程与线程/处理机调度.md",
+    "CSNote/408/操作系统/进程与线程/同步与互斥.md",
+    "OnJava8-zh-master/docs/ch2.md",
     "note/物联网设备的定期睡眠与激活.md",
     "OnJava8-zh-master/docs/ch1.md",
     "note/如何判断机器环境是WSL（shell）.md",
     "[.md",
-    "CSNote/408/操作系统/进程与线程/同步与互斥.md",
     "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
-    "OnJava8-zh-master/docs/ch8.md",
-    "Snapd.md"
+    "OnJava8-zh-master/docs/ch8.md"
   ]
 }
