@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/如何判断机器环境是WSL（shell）.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "457c2482e5e81607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "CSNote/408/操作系统/进程与线程/处理机调度.md",
                 "mode": "source",
                 "source": false
@@ -44,19 +32,19 @@
             }
           },
           {
-            "id": "5d9969dde60230c6",
+            "id": "daaf72e2b357c3d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSNote/408/操作系统/进程与线程/处理机调度.md",
+                "file": "OnJava8-zh-master/docs/ch2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,17 +169,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5d9969dde60230c6",
+  "active": "7236bcbec0a763e9",
   "lastOpenFiles": [
-    "CSNote/408/操作系统/进程与线程/同步与互斥.md",
+    "OnJava8-zh-master/docs/ch2.md",
     "CSNote/408/操作系统/进程与线程/处理机调度.md",
+    "note/物联网设备的定期睡眠与激活.md",
+    "OnJava8-zh-master/docs/ch1.md",
     "note/如何判断机器环境是WSL（shell）.md",
     "[.md",
+    "CSNote/408/操作系统/进程与线程/同步与互斥.md",
     "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
-    "note/物联网设备的定期睡眠与激活.md",
     "OnJava8-zh-master/docs/ch8.md",
-    "Snapd.md",
-    "blog/Web/tomcat/tomcat log 中文乱码 以及将输出信息变为英文.md",
-    "blog/未命名.md"
+    "Snapd.md"
   ]
 }
