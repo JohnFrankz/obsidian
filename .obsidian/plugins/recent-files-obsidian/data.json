@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "处理机调度",
+      "path": "CSNote/408/操作系统/进程与线程/处理机调度.md"
+    },
+    {
+      "basename": "同步与互斥",
+      "path": "CSNote/408/操作系统/进程与线程/同步与互斥.md"
+    },
+    {
       "basename": "如何判断机器环境是WSL（shell）",
       "path": "note/如何判断机器环境是WSL（shell）.md"
     },
