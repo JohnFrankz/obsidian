@@ -5,16 +5,20 @@
       "path": "CSNote/408/操作系统/进程与线程/处理机调度.md"
     },
     {
-      "basename": "同步与互斥",
-      "path": "CSNote/408/操作系统/进程与线程/同步与互斥.md"
+      "basename": "物联网设备的定期睡眠与激活",
+      "path": "note/物联网设备的定期睡眠与激活.md"
+    },
+    {
+      "basename": "ch6",
+      "path": "OnJava8-zh-master/docs/ch6.md"
     },
     {
       "basename": "ch2",
       "path": "OnJava8-zh-master/docs/ch2.md"
     },
     {
-      "basename": "物联网设备的定期睡眠与激活",
-      "path": "note/物联网设备的定期睡眠与激活.md"
+      "basename": "同步与互斥",
+      "path": "CSNote/408/操作系统/进程与线程/同步与互斥.md"
     },
     {
       "basename": "ch1",
