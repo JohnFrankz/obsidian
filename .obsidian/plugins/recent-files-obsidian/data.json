@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "物联网设备的定期睡眠与激活",
+      "path": "note/物联网设备的定期睡眠与激活.md"
+    },
+    {
       "basename": "处理机调度",
       "path": "CSNote/408/操作系统/进程与线程/处理机调度.md"
     },
     {
-      "basename": "物联网设备的定期睡眠与激活",
-      "path": "note/物联网设备的定期睡眠与激活.md"
+      "basename": "Periodically ctivating and leeping evices in Internet of Things 简记",
+      "path": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md"
     },
     {
       "basename": "ch6",
@@ -27,10 +31,6 @@
     {
       "basename": "如何判断机器环境是WSL（shell）",
       "path": "note/如何判断机器环境是WSL（shell）.md"
-    },
-    {
-      "basename": "Periodically ctivating and leeping evices in Internet of Things 简记",
-      "path": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md"
     },
     {
       "basename": "ch8",

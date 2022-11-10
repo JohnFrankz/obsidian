@@ -10,5 +10,6 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "showFrontmatter": false,
-  "foldHeading": true
+  "foldHeading": true,
+  "strictLineBreaks": true
 }
