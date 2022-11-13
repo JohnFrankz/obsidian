@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "OnJava8-zh-master/docs/README.md"
+    },
+    {
+      "basename": "preface",
+      "path": "OnJava8-zh-master/docs/preface.md"
+    },
+    {
+      "basename": "introduction",
+      "path": "OnJava8-zh-master/docs/introduction.md"
+    },
+    {
+      "basename": "cover",
+      "path": "OnJava8-zh-master/docs/cover.png"
+    },
+    {
+      "basename": "ch24",
+      "path": "OnJava8-zh-master/docs/ch24.md"
+    },
+    {
+      "basename": "ch25",
+      "path": "OnJava8-zh-master/docs/ch25.md"
+    },
+    {
+      "basename": "ch23",
+      "path": "OnJava8-zh-master/docs/ch23.md"
+    },
+    {
+      "basename": "ch22",
+      "path": "OnJava8-zh-master/docs/ch22.md"
+    },
+    {
+      "basename": "ch21",
+      "path": "OnJava8-zh-master/docs/ch21.md"
+    },
+    {
+      "basename": "ch20",
+      "path": "OnJava8-zh-master/docs/ch20.md"
+    },
+    {
+      "basename": "ch19",
+      "path": "OnJava8-zh-master/docs/ch19.md"
+    },
+    {
+      "basename": "ch18",
+      "path": "OnJava8-zh-master/docs/ch18.md"
+    },
+    {
+      "basename": "ch17",
+      "path": "OnJava8-zh-master/docs/ch17.md"
+    },
+    {
+      "basename": "ch16",
+      "path": "OnJava8-zh-master/docs/ch16.md"
+    },
+    {
+      "basename": "ch15",
+      "path": "OnJava8-zh-master/docs/ch15.md"
+    },
+    {
+      "basename": "ch14",
+      "path": "OnJava8-zh-master/docs/ch14.md"
+    },
+    {
+      "basename": "ch13",
+      "path": "OnJava8-zh-master/docs/ch13.md"
+    },
+    {
+      "basename": "ch11",
+      "path": "OnJava8-zh-master/docs/ch11.md"
+    },
+    {
+      "basename": "ch10",
+      "path": "OnJava8-zh-master/docs/ch10.md"
+    },
+    {
+      "basename": "ch9",
+      "path": "OnJava8-zh-master/docs/ch9.md"
+    },
+    {
+      "basename": "ch8",
+      "path": "OnJava8-zh-master/docs/ch8.md"
+    },
+    {
       "basename": "物联网设备的定期睡眠与激活",
       "path": "note/物联网设备的定期睡眠与激活.md"
     },
@@ -31,10 +115,6 @@
     {
       "basename": "如何判断机器环境是WSL（shell）",
       "path": "note/如何判断机器环境是WSL（shell）.md"
-    },
-    {
-      "basename": "ch8",
-      "path": "OnJava8-zh-master/docs/ch8.md"
     }
   ],
   "omittedPaths": [],
