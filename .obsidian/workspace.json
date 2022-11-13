@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OnJava8-zh-master/docs/README.md",
-                "mode": "source",
+                "file": "OnJava8-zh-master/docs/ch17.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OnJava8-zh-master/docs/README.md",
+                "file": "OnJava8-zh-master/docs/ch17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OnJava8-zh-master/docs/README.md",
+                "file": "OnJava8-zh-master/docs/ch17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OnJava8-zh-master/docs/README.md"
+                "file": "OnJava8-zh-master/docs/ch17.md"
               }
             }
           }
@@ -167,20 +167,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "7236bcbec0a763e9",
   "lastOpenFiles": [
-    "OnJava8-zh-master/docs/preface.md",
-    "OnJava8-zh-master/docs/introduction.md",
-    "OnJava8-zh-master/docs/cover.png",
-    "OnJava8-zh-master/docs/ch24.md",
+    "OnJava8-zh-master/docs/ch16.md",
+    "OnJava8-zh-master/docs/ch15.md",
+    "OnJava8-zh-master/docs/ch14.md",
+    "OnJava8-zh-master/docs/ch17.md",
+    "OnJava8-zh-master/docs/ch18.md",
     "OnJava8-zh-master/docs/ch25.md",
+    "OnJava8-zh-master/docs/ch24.md",
     "OnJava8-zh-master/docs/ch23.md",
     "OnJava8-zh-master/docs/ch22.md",
-    "OnJava8-zh-master/docs/ch21.md",
-    "OnJava8-zh-master/docs/ch20.md",
-    "OnJava8-zh-master/docs/ch19.md"
+    "OnJava8-zh-master/docs/ch21.md"
   ]
 }
