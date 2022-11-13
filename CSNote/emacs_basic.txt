@@ -1,0 +1,15 @@
+Ctrl + s: search
+    Ctrl + s, Ctrl + r
+Ctrl + U undo
+CTrl + backspace select block
+    Ctrl + xu undo block
+Ctrl+A/E line end
+Ctrl+k delete a line and copy
+Ctrl+y paste
+Ctrl+w cut
+M+W copy
+M+Y paste
+M+/ complete current word
+Ctrl+x+( start the keyboard macro
+    Ctrl+X+)
+

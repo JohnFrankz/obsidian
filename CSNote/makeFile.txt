@@ -1,0 +1,45 @@
+cc = gcc
+CFLAGS = -std=gun99 -pedantic -Wall -O3
+DBGFLAGES = -std=gun99 -pedantic -Wall -ggdb3 -DDEBUG
+
+# Use the $(wildcard pattern)function to generatr the list of current directory
+SRCS=$(wildcard *.c)
+OBJS=$(patsubst %.c,%.o,$(SRCS))
+DBGOBJS=$(patsubst %.c,%.dbg.o,$(SRCS))
+
+.PHONY: clean depend all
+all: myProgram myProgram-debug
+myProgram: $(OBJS)
+    gcc -o $@ -O3 $(OBJS)
+myProgram-debug: $(DBGOBJS)
+    gcc -o $@ -ggdb3 $(DBGOBJS)
+%.dbg.o: %.c
+    gcc $(DBGFLAGS) -c -o $@ $<
+
+# %.o: %.c
+    # $< is the name of the first prerequisite
+    # gcc $(CFLAGS) -c $<
+
+# Built-in generic rules
+# %.o: %.c
+# commands to execute (built-in):
+    # $ (COMPILE.c) $(OUTPUT_OPTION) $<
+    # you can use `make -p | grep -e "COMPILE.c = "  -e "OUTPUT_OPTION =" find it:
+    # COMPILE.c = $(CC) $(CFLAGS) $(CPPFLAGS) $(TARGET_ARCH) -c
+    # OUTPUT_OPTION = -o $@
+    # By default CFLAGS, CPPFLAGS, TARGET_ARCH are empty
+    # $@ is a special variable which is the name of the current target
+    # it can be boils down the fact: cc -c -o something.o something.c
+
+clean:
+    rm -f myProgram *.o *.c~ *.h~
+depend:
+    makedepend $(SRCS)
+
+
+# make ubderstands that we just porvoiding additional dependence information
+# because we have not specified any commands.
+# This is makedepend added to our Makefile when I ran make depend
+# DO NOT DELETE
+onFile.o: oneHeader.h sonmeHeader.h
+anotherFile.o: anotherHeader.h someHeader.h
