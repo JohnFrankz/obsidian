@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "第 7 章 封装",
+      "path": "OnJava8-zh-master/docs/第 7 章 封装.md"
+    },
+    {
+      "basename": "第 8 章 复用",
+      "path": "OnJava8-zh-master/docs/第 8 章 复用.md"
+    },
+    {
+      "basename": "app-io-streams",
+      "path": "OnJava8-zh-master/docs/appendices/app-io-streams.md"
+    },
+    {
+      "basename": "Periodically ctivating and leeping evices in Internet of Things 简记",
+      "path": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md"
+    },
+    {
       "basename": "第 23 章 注解",
       "path": "OnJava8-zh-master/docs/第 23 章 注解.md"
     },
     {
-      "basename": "第 10 章 接口",
-      "path": "OnJava8-zh-master/docs/第 10 章 接口.md"
+      "basename": "第 15 章 异常",
+      "path": "OnJava8-zh-master/docs/第 15 章 异常.md"
+    },
+    {
+      "basename": "第 16 章 代码校验",
+      "path": "OnJava8-zh-master/docs/第 16 章 代码校验.md"
+    },
+    {
+      "basename": "第 17 章 文件",
+      "path": "OnJava8-zh-master/docs/第 17 章 文件.md"
+    },
+    {
+      "basename": "第 18 章 字符串",
+      "path": "OnJava8-zh-master/docs/第 18 章 字符串.md"
+    },
+    {
+      "basename": "第 19 章 类型信息",
+      "path": "OnJava8-zh-master/docs/第 19 章 类型信息.md"
+    },
+    {
+      "basename": "第 20 章 泛型",
+      "path": "OnJava8-zh-master/docs/第 20 章 泛型.md"
+    },
+    {
+      "basename": "第 21 章 数组",
+      "path": "OnJava8-zh-master/docs/第 21 章 数组.md"
+    },
+    {
+      "basename": "第 24 章 并发编程",
+      "path": "OnJava8-zh-master/docs/第 24 章 并发编程.md"
+    },
+    {
+      "basename": "第 25 章 设计模式",
+      "path": "OnJava8-zh-master/docs/第 25 章 设计模式.md"
+    },
+    {
+      "basename": "简介",
+      "path": "OnJava8-zh-master/docs/简介.md"
+    },
+    {
+      "basename": "前言",
+      "path": "OnJava8-zh-master/docs/前言.md"
     },
     {
       "basename": "README",
@@ -17,52 +73,24 @@
       "path": "OnJava8-zh-master/README.md"
     },
     {
-      "basename": "前言",
-      "path": "OnJava8-zh-master/docs/前言.md"
+      "basename": "app-standard-io",
+      "path": "OnJava8-zh-master/docs/appendices/app-standard-io.md"
     },
     {
-      "basename": "简介",
-      "path": "OnJava8-zh-master/docs/简介.md"
+      "basename": "app-programming-guidelines",
+      "path": "OnJava8-zh-master/docs/appendices/app-programming-guidelines.md"
     },
     {
-      "basename": "第 25 章 设计模式",
-      "path": "OnJava8-zh-master/docs/第 25 章 设计模式.md"
+      "basename": "app-low-level-concurrency",
+      "path": "OnJava8-zh-master/docs/appendices/app-low-level-concurrency.md"
     },
     {
-      "basename": "第 24 章 并发编程",
-      "path": "OnJava8-zh-master/docs/第 24 章 并发编程.md"
+      "basename": "第 10 章 接口",
+      "path": "OnJava8-zh-master/docs/第 10 章 接口.md"
     },
     {
       "basename": "第 22 章 枚举",
       "path": "OnJava8-zh-master/docs/第 22 章 枚举.md"
-    },
-    {
-      "basename": "第 21 章 数组",
-      "path": "OnJava8-zh-master/docs/第 21 章 数组.md"
-    },
-    {
-      "basename": "第 20 章 泛型",
-      "path": "OnJava8-zh-master/docs/第 20 章 泛型.md"
-    },
-    {
-      "basename": "第 19 章 类型信息",
-      "path": "OnJava8-zh-master/docs/第 19 章 类型信息.md"
-    },
-    {
-      "basename": "第 18 章 字符串",
-      "path": "OnJava8-zh-master/docs/第 18 章 字符串.md"
-    },
-    {
-      "basename": "第 17 章 文件",
-      "path": "OnJava8-zh-master/docs/第 17 章 文件.md"
-    },
-    {
-      "basename": "第 16 章 代码校验",
-      "path": "OnJava8-zh-master/docs/第 16 章 代码校验.md"
-    },
-    {
-      "basename": "第 15 章 异常",
-      "path": "OnJava8-zh-master/docs/第 15 章 异常.md"
     },
     {
       "basename": "第 14 章 流式编程",
@@ -83,14 +111,6 @@
     {
       "basename": "第 9 章 多态",
       "path": "OnJava8-zh-master/docs/第 9 章 多态.md"
-    },
-    {
-      "basename": "第 8 章 复用",
-      "path": "OnJava8-zh-master/docs/第 8 章 复用.md"
-    },
-    {
-      "basename": "第 7 章 封装",
-      "path": "OnJava8-zh-master/docs/第 7 章 封装.md"
     },
     {
       "basename": "第 6 章 初始化和清理",
@@ -121,16 +141,8 @@
       "path": "OnJava8-zh-master/docs/cover.png"
     },
     {
-      "basename": "app-standard-io",
-      "path": "OnJava8-zh-master/docs/appendices/app-standard-io.md"
-    },
-    {
       "basename": "物联网设备的定期睡眠与激活",
       "path": "note/物联网设备的定期睡眠与激活.md"
-    },
-    {
-      "basename": "Periodically ctivating and leeping evices in Internet of Things 简记",
-      "path": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md"
     },
     {
       "basename": "处理机调度",
