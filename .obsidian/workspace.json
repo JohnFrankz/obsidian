@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba8e44df84d55c77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OnJava8-zh-master/docs/第 10 章 接口.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OnJava8-zh-master/docs/第 23 章 注解.md",
+                "file": "OnJava8-zh-master/docs/第 10 章 接口.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OnJava8-zh-master/docs/第 23 章 注解.md",
+                "file": "OnJava8-zh-master/docs/第 10 章 接口.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OnJava8-zh-master/docs/第 23 章 注解.md"
+                "file": "OnJava8-zh-master/docs/第 10 章 接口.md"
               }
             }
           }
@@ -169,17 +181,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7236bcbec0a763e9",
+  "active": "ba8e44df84d55c77",
   "lastOpenFiles": [
-    "OnJava8-zh-master/docs/README.md",
-    "OnJava8-zh-master/docs/preface.md",
-    "OnJava8-zh-master/docs/introduction.md",
-    "OnJava8-zh-master/docs/cover.png",
-    "OnJava8-zh-master/docs/ch1.md",
+    "OnJava8-zh-master/docs/ch9.md",
+    "OnJava8-zh-master/docs/第 10 章 接口.md",
+    "OnJava8-zh-master/docs/ch11.md",
+    "OnJava8-zh-master/docs/ch14.md",
+    "OnJava8-zh-master/docs/ch12.md",
     "OnJava8-zh-master/docs/ch17.md",
     "OnJava8-zh-master/docs/ch16.md",
-    "OnJava8-zh-master/docs/ch15.md",
-    "OnJava8-zh-master/docs/ch14.md",
-    "OnJava8-zh-master/docs/ch18.md"
+    "OnJava8-zh-master/docs/ch18.md",
+    "OnJava8-zh-master/docs/ch19.md",
+    "OnJava8-zh-master/docs/第 23 章 注解.md"
   ]
 }
