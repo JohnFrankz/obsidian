@@ -5,20 +5,28 @@
       "path": "OnJava8-zh-master/docs/第 7 章 封装.md"
     },
     {
-      "basename": "第 8 章 复用",
-      "path": "OnJava8-zh-master/docs/第 8 章 复用.md"
-    },
-    {
-      "basename": "app-io-streams",
-      "path": "OnJava8-zh-master/docs/appendices/app-io-streams.md"
+      "basename": "第 23 章 注解",
+      "path": "OnJava8-zh-master/docs/第 23 章 注解.md"
     },
     {
       "basename": "Periodically ctivating and leeping evices in Internet of Things 简记",
       "path": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md"
     },
     {
-      "basename": "第 23 章 注解",
-      "path": "OnJava8-zh-master/docs/第 23 章 注解.md"
+      "basename": "README",
+      "path": "OnJava8-zh-master/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "OnJava8-zh-master/docs/README.md"
+    },
+    {
+      "basename": "第 8 章 复用",
+      "path": "OnJava8-zh-master/docs/第 8 章 复用.md"
+    },
+    {
+      "basename": "app-io-streams",
+      "path": "OnJava8-zh-master/docs/appendices/app-io-streams.md"
     },
     {
       "basename": "第 15 章 异常",
@@ -63,14 +71,6 @@
     {
       "basename": "前言",
       "path": "OnJava8-zh-master/docs/前言.md"
-    },
-    {
-      "basename": "README",
-      "path": "OnJava8-zh-master/docs/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "OnJava8-zh-master/README.md"
     },
     {
       "basename": "app-standard-io",
