@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OnJava8-zh-master/docs/第 7 章 封装.md",
+                "file": "OnJava8-zh-master/docs/第 8 章 复用.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OnJava8-zh-master/docs/第 7 章 封装.md",
+                "file": "OnJava8-zh-master/docs/第 8 章 复用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OnJava8-zh-master/docs/第 7 章 封装.md",
+                "file": "OnJava8-zh-master/docs/第 8 章 复用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OnJava8-zh-master/docs/第 7 章 封装.md"
+                "file": "OnJava8-zh-master/docs/第 8 章 复用.md"
               }
             }
           }
@@ -159,11 +159,11 @@
   },
   "active": "7236bcbec0a763e9",
   "lastOpenFiles": [
+    "OnJava8-zh-master/docs/第 7 章 封装.md",
     "OnJava8-zh-master/docs/第 23 章 注解.md",
     "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
     "OnJava8-zh-master/README.md",
     "OnJava8-zh-master/docs/README.md",
-    "OnJava8-zh-master/docs/第 7 章 封装.md",
     "OnJava8-zh-master/docs/第 8 章 复用.md",
     "OnJava8-zh-master/docs/appendices/app-io-streams.md",
     "OnJava8-zh-master/docs/第 15 章 异常.md",

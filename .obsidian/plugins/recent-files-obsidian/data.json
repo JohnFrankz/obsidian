@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "第 8 章 复用",
+      "path": "OnJava8-zh-master/docs/第 8 章 复用.md"
+    },
+    {
       "basename": "第 7 章 封装",
       "path": "OnJava8-zh-master/docs/第 7 章 封装.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "README",
       "path": "OnJava8-zh-master/docs/README.md"
-    },
-    {
-      "basename": "第 8 章 复用",
-      "path": "OnJava8-zh-master/docs/第 8 章 复用.md"
     },
     {
       "basename": "app-io-streams",
