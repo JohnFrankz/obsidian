@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "ch23",
+      "path": "OnJava8-zh-master/docs/ch23.md"
+    },
+    {
+      "basename": "README",
+      "path": "OnJava8-zh-master/docs/README.md"
+    },
+    {
+      "basename": "preface",
+      "path": "OnJava8-zh-master/docs/preface.md"
+    },
+    {
+      "basename": "introduction",
+      "path": "OnJava8-zh-master/docs/introduction.md"
+    },
+    {
+      "basename": "cover",
+      "path": "OnJava8-zh-master/docs/cover.png"
+    },
+    {
+      "basename": "ch1",
+      "path": "OnJava8-zh-master/docs/ch1.md"
+    },
+    {
       "basename": "ch17",
       "path": "OnJava8-zh-master/docs/ch17.md"
     },
@@ -27,10 +51,6 @@
     {
       "basename": "ch24",
       "path": "OnJava8-zh-master/docs/ch24.md"
-    },
-    {
-      "basename": "ch23",
-      "path": "OnJava8-zh-master/docs/ch23.md"
     },
     {
       "basename": "ch22",
@@ -73,24 +93,8 @@
       "path": "OnJava8-zh-master/docs/ch8.md"
     },
     {
-      "basename": "README",
-      "path": "OnJava8-zh-master/docs/README.md"
-    },
-    {
       "basename": "app-standard-io",
       "path": "OnJava8-zh-master/docs/appendices/app-standard-io.md"
-    },
-    {
-      "basename": "preface",
-      "path": "OnJava8-zh-master/docs/preface.md"
-    },
-    {
-      "basename": "introduction",
-      "path": "OnJava8-zh-master/docs/introduction.md"
-    },
-    {
-      "basename": "cover",
-      "path": "OnJava8-zh-master/docs/cover.png"
     },
     {
       "basename": "物联网设备的定期睡眠与激活",
@@ -115,10 +119,6 @@
     {
       "basename": "同步与互斥",
       "path": "CSNote/408/操作系统/进程与线程/同步与互斥.md"
-    },
-    {
-      "basename": "ch1",
-      "path": "OnJava8-zh-master/docs/ch1.md"
     },
     {
       "basename": "如何判断机器环境是WSL（shell）",

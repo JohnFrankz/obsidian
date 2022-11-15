@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "7e150a9b83de8f30",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cc15f7a878c04f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8824f6f3e7089cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7236bcbec0a763e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OnJava8-zh-master/docs/ch23.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "daaf72e2b357c3d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OnJava8-zh-master/docs/ch6.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "374878ff962d7336",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfb647f68200cb9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54592b248ad60c3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a764531fe06daec1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "202f7c9b78f75e38",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4bbeac55234e1dc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db37088a4451460f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec983956220d777f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdf108528a29fc8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OnJava8-zh-master/docs/ch23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf32afe72e5be956",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OnJava8-zh-master/docs/ch23.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a13ca2453cf518dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f6eb5941069894b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OnJava8-zh-master/docs/ch23.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "7236bcbec0a763e9",
+  "lastOpenFiles": [
+    "OnJava8-zh-master/docs/README.md",
+    "OnJava8-zh-master/docs/preface.md",
+    "OnJava8-zh-master/docs/introduction.md",
+    "OnJava8-zh-master/docs/cover.png",
+    "OnJava8-zh-master/docs/ch1.md",
+    "OnJava8-zh-master/docs/ch17.md",
+    "OnJava8-zh-master/docs/ch16.md",
+    "OnJava8-zh-master/docs/ch15.md",
+    "OnJava8-zh-master/docs/ch14.md",
+    "OnJava8-zh-master/docs/ch18.md"
+  ]
+}
