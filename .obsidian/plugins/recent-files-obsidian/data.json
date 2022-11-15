@@ -9,88 +9,116 @@
       "path": "OnJava8-zh-master/docs/第 10 章 接口.md"
     },
     {
-      "basename": "ch9",
-      "path": "OnJava8-zh-master/docs/ch9.md"
-    },
-    {
-      "basename": "ch11",
-      "path": "OnJava8-zh-master/docs/ch11.md"
-    },
-    {
-      "basename": "ch14",
-      "path": "OnJava8-zh-master/docs/ch14.md"
-    },
-    {
-      "basename": "ch12",
-      "path": "OnJava8-zh-master/docs/ch12.md"
-    },
-    {
-      "basename": "ch17",
-      "path": "OnJava8-zh-master/docs/ch17.md"
-    },
-    {
-      "basename": "ch16",
-      "path": "OnJava8-zh-master/docs/ch16.md"
-    },
-    {
-      "basename": "ch18",
-      "path": "OnJava8-zh-master/docs/ch18.md"
-    },
-    {
-      "basename": "ch19",
-      "path": "OnJava8-zh-master/docs/ch19.md"
-    },
-    {
       "basename": "README",
       "path": "OnJava8-zh-master/docs/README.md"
     },
     {
-      "basename": "preface",
-      "path": "OnJava8-zh-master/docs/preface.md"
+      "basename": "README",
+      "path": "OnJava8-zh-master/README.md"
     },
     {
-      "basename": "introduction",
-      "path": "OnJava8-zh-master/docs/introduction.md"
+      "basename": "前言",
+      "path": "OnJava8-zh-master/docs/前言.md"
+    },
+    {
+      "basename": "简介",
+      "path": "OnJava8-zh-master/docs/简介.md"
+    },
+    {
+      "basename": "第 25 章 设计模式",
+      "path": "OnJava8-zh-master/docs/第 25 章 设计模式.md"
+    },
+    {
+      "basename": "第 24 章 并发编程",
+      "path": "OnJava8-zh-master/docs/第 24 章 并发编程.md"
+    },
+    {
+      "basename": "第 22 章 枚举",
+      "path": "OnJava8-zh-master/docs/第 22 章 枚举.md"
+    },
+    {
+      "basename": "第 21 章 数组",
+      "path": "OnJava8-zh-master/docs/第 21 章 数组.md"
+    },
+    {
+      "basename": "第 20 章 泛型",
+      "path": "OnJava8-zh-master/docs/第 20 章 泛型.md"
+    },
+    {
+      "basename": "第 19 章 类型信息",
+      "path": "OnJava8-zh-master/docs/第 19 章 类型信息.md"
+    },
+    {
+      "basename": "第 18 章 字符串",
+      "path": "OnJava8-zh-master/docs/第 18 章 字符串.md"
+    },
+    {
+      "basename": "第 17 章 文件",
+      "path": "OnJava8-zh-master/docs/第 17 章 文件.md"
+    },
+    {
+      "basename": "第 16 章 代码校验",
+      "path": "OnJava8-zh-master/docs/第 16 章 代码校验.md"
+    },
+    {
+      "basename": "第 15 章 异常",
+      "path": "OnJava8-zh-master/docs/第 15 章 异常.md"
+    },
+    {
+      "basename": "第 14 章 流式编程",
+      "path": "OnJava8-zh-master/docs/第 14 章 流式编程.md"
+    },
+    {
+      "basename": "第 13 章 函数式编程",
+      "path": "OnJava8-zh-master/docs/第 13 章 函数式编程.md"
+    },
+    {
+      "basename": "第 12 章 集合",
+      "path": "OnJava8-zh-master/docs/第 12 章 集合.md"
+    },
+    {
+      "basename": "第 11 章 内部类",
+      "path": "OnJava8-zh-master/docs/第 11 章 内部类.md"
+    },
+    {
+      "basename": "第 9 章 多态",
+      "path": "OnJava8-zh-master/docs/第 9 章 多态.md"
+    },
+    {
+      "basename": "第 8 章 复用",
+      "path": "OnJava8-zh-master/docs/第 8 章 复用.md"
+    },
+    {
+      "basename": "第 7 章 封装",
+      "path": "OnJava8-zh-master/docs/第 7 章 封装.md"
+    },
+    {
+      "basename": "第 6 章 初始化和清理",
+      "path": "OnJava8-zh-master/docs/第 6 章 初始化和清理.md"
+    },
+    {
+      "basename": "第 5 章 控制流",
+      "path": "OnJava8-zh-master/docs/第 5 章 控制流.md"
+    },
+    {
+      "basename": "第 4 章 运算符",
+      "path": "OnJava8-zh-master/docs/第 4 章 运算符.md"
+    },
+    {
+      "basename": "第 3 章 万物皆对象",
+      "path": "OnJava8-zh-master/docs/第 3 章 万物皆对象.md"
+    },
+    {
+      "basename": "第 2 章 安装 Java 和本书用例",
+      "path": "OnJava8-zh-master/docs/第 2 章 安装 Java 和本书用例.md"
+    },
+    {
+      "basename": "第 1 章 对象的概念",
+      "path": "OnJava8-zh-master/docs/第 1 章 对象的概念.md"
     },
     {
       "basename": "cover",
       "path": "OnJava8-zh-master/docs/cover.png"
-    },
-    {
-      "basename": "ch1",
-      "path": "OnJava8-zh-master/docs/ch1.md"
-    },
-    {
-      "basename": "ch15",
-      "path": "OnJava8-zh-master/docs/ch15.md"
-    },
-    {
-      "basename": "ch25",
-      "path": "OnJava8-zh-master/docs/ch25.md"
-    },
-    {
-      "basename": "ch24",
-      "path": "OnJava8-zh-master/docs/ch24.md"
-    },
-    {
-      "basename": "ch22",
-      "path": "OnJava8-zh-master/docs/ch22.md"
-    },
-    {
-      "basename": "ch21",
-      "path": "OnJava8-zh-master/docs/ch21.md"
-    },
-    {
-      "basename": "ch20",
-      "path": "OnJava8-zh-master/docs/ch20.md"
-    },
-    {
-      "basename": "ch13",
-      "path": "OnJava8-zh-master/docs/ch13.md"
-    },
-    {
-      "basename": "ch8",
-      "path": "OnJava8-zh-master/docs/ch8.md"
     },
     {
       "basename": "app-standard-io",
@@ -105,16 +133,8 @@
       "path": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md"
     },
     {
-      "basename": "ch6",
-      "path": "OnJava8-zh-master/docs/ch6.md"
-    },
-    {
       "basename": "处理机调度",
       "path": "CSNote/408/操作系统/进程与线程/处理机调度.md"
-    },
-    {
-      "basename": "ch2",
-      "path": "OnJava8-zh-master/docs/ch2.md"
     },
     {
       "basename": "同步与互斥",
