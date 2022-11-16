@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Idea 小技巧",
-      "path": "note/Idea 小技巧.md"
+      "basename": "第 9 章 多态",
+      "path": "OnJava8-zh-master/docs/第 9 章 多态.md"
+    },
+    {
+      "basename": "第 8 章 复用",
+      "path": "OnJava8-zh-master/docs/第 8 章 复用.md"
+    },
+    {
+      "basename": "第 10 章 接口",
+      "path": "OnJava8-zh-master/docs/第 10 章 接口.md"
     },
     {
       "basename": "第 23 章 注解",
       "path": "OnJava8-zh-master/docs/第 23 章 注解.md"
     },
     {
-      "basename": "第 8 章 复用",
-      "path": "OnJava8-zh-master/docs/第 8 章 复用.md"
+      "basename": "app-supplements",
+      "path": "OnJava8-zh-master/docs/appendices/app-supplements.md"
+    },
+    {
+      "basename": "README",
+      "path": "OnJava8-zh-master/docs/README.md"
+    },
+    {
+      "basename": "Idea 小技巧",
+      "path": "note/Idea 小技巧.md"
     },
     {
       "basename": "第 7 章 封装",
@@ -23,10 +39,6 @@
     {
       "basename": "README",
       "path": "OnJava8-zh-master/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "OnJava8-zh-master/docs/README.md"
     },
     {
       "basename": "app-io-streams",
@@ -89,10 +101,6 @@
       "path": "OnJava8-zh-master/docs/appendices/app-low-level-concurrency.md"
     },
     {
-      "basename": "第 10 章 接口",
-      "path": "OnJava8-zh-master/docs/第 10 章 接口.md"
-    },
-    {
       "basename": "第 22 章 枚举",
       "path": "OnJava8-zh-master/docs/第 22 章 枚举.md"
     },
@@ -111,10 +119,6 @@
     {
       "basename": "第 11 章 内部类",
       "path": "OnJava8-zh-master/docs/第 11 章 内部类.md"
-    },
-    {
-      "basename": "第 9 章 多态",
-      "path": "OnJava8-zh-master/docs/第 9 章 多态.md"
     },
     {
       "basename": "第 6 章 初始化和清理",
