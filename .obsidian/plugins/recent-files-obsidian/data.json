@@ -5,12 +5,32 @@
       "path": "note/物联网设备的定期睡眠与激活.md"
     },
     {
-      "basename": "fig1",
-      "path": "image/PCLEIOT/fig1.png"
+      "basename": "第 2 章 安装 Java 和本书用例",
+      "path": "OnJava8-zh-master/docs/第 2 章 安装 Java 和本书用例.md"
+    },
+    {
+      "basename": "第 6 章 初始化和清理",
+      "path": "OnJava8-zh-master/docs/第 6 章 初始化和清理.md"
+    },
+    {
+      "basename": "第 1 章 对象的概念",
+      "path": "OnJava8-zh-master/docs/第 1 章 对象的概念.md"
     },
     {
       "basename": "Periodically ctivating and leeping evices in Internet of Things 简记",
       "path": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md"
+    },
+    {
+      "basename": "fig2.png 1",
+      "path": "image/PCLEIOT/fig2.png 1.md"
+    },
+    {
+      "basename": "fig2.png",
+      "path": "image/PCLEIOT/fig2.png.md"
+    },
+    {
+      "basename": "fig2",
+      "path": "note/image/PCLEIOT/fig2.png"
     },
     {
       "basename": "第 9 章 多态",
@@ -129,10 +149,6 @@
       "path": "OnJava8-zh-master/docs/第 11 章 内部类.md"
     },
     {
-      "basename": "第 6 章 初始化和清理",
-      "path": "OnJava8-zh-master/docs/第 6 章 初始化和清理.md"
-    },
-    {
       "basename": "第 5 章 控制流",
       "path": "OnJava8-zh-master/docs/第 5 章 控制流.md"
     },
@@ -143,14 +159,6 @@
     {
       "basename": "第 3 章 万物皆对象",
       "path": "OnJava8-zh-master/docs/第 3 章 万物皆对象.md"
-    },
-    {
-      "basename": "第 2 章 安装 Java 和本书用例",
-      "path": "OnJava8-zh-master/docs/第 2 章 安装 Java 和本书用例.md"
-    },
-    {
-      "basename": "第 1 章 对象的概念",
-      "path": "OnJava8-zh-master/docs/第 1 章 对象的概念.md"
     },
     {
       "basename": "cover",

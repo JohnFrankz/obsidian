@@ -10,6 +10,7 @@ imap <Up>    <Nop>
 imap <Down>  <Nop>
 
 vmap <C-S-C> "+y
+imap <C-S-C> "+y
 
 " Yank to system clipboard
 set clipboard=unnamed
