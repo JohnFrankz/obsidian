@@ -6,7 +6,7 @@
   "autoCloseCurly_toggle": true,
   "addAlignBlock_toggle": true,
   "addAlignBlock_parameter": "align*",
-  "autoAlignSymbols": "= > < \\le \\ge \\neq \\approx",
+  "autoAlignSymbols": "> < \\le \\ge \\neq \\approx",
   "addCasesBlock_toggle": true,
   "shiftEnter_toggle": false,
   "addMatrixBlock_toggle": true,
