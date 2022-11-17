@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/物联网设备的定期睡眠与激活.md",
-                "mode": "preview",
+                "file": "CSNote/408/操作系统/进程与线程/处理机调度.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/物联网设备的定期睡眠与激活.md",
+                "file": "CSNote/408/操作系统/进程与线程/处理机调度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/物联网设备的定期睡眠与激活.md",
+                "file": "CSNote/408/操作系统/进程与线程/处理机调度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/物联网设备的定期睡眠与激活.md"
+                "file": "CSNote/408/操作系统/进程与线程/处理机调度.md"
               }
             }
           }
@@ -158,8 +158,8 @@
   },
   "active": "d8824f6f3e7089cc",
   "lastOpenFiles": [
-    "note/image/PCLEIOT/fig5.png",
     "note/物联网设备的定期睡眠与激活.md",
+    "note/image/PCLEIOT/fig5.png",
     "OnJava8-zh-master/docs/第 2 章 安装 Java 和本书用例.md",
     "OnJava8-zh-master/docs/第 6 章 初始化和清理.md",
     "OnJava8-zh-master/docs/第 1 章 对象的概念.md",
