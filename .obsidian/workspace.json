@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8824f6f3e7089cc",
+            "id": "e5f7df3d9e930229",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSNote/408/操作系统/进程与线程/同步与互斥.md",
-                "mode": "source",
+                "file": "note/物联网设备的定期睡眠与激活.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "e5f7df3d9e930229",
+            "id": "031c13c5679433fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSNote/408/操作系统/进程与线程/同步与互斥.md",
+                "file": "note/物联网设备的定期睡眠与激活.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSNote/408/操作系统/进程与线程/同步与互斥.md",
+                "file": "note/物联网设备的定期睡眠与激活.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSNote/408/操作系统/进程与线程/同步与互斥.md"
+                "file": "note/物联网设备的定期睡眠与激活.md"
               }
             }
           }
@@ -154,19 +154,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "d8824f6f3e7089cc",
+  "active": "e5f7df3d9e930229",
   "lastOpenFiles": [
-    "CSNote/408/操作系统/进程与线程/处理机调度.md",
+    "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
     "note/物联网设备的定期睡眠与激活.md",
+    "note/物联网设备的定期睡眠与激活 (2)/物联网设备的定期睡眠与激活.md",
+    "CSNote/408/操作系统/进程与线程/同步与互斥.md",
+    "CSNote/408/操作系统/进程与线程/处理机调度.md",
     "note/image/PCLEIOT/fig5.png",
     "OnJava8-zh-master/docs/第 2 章 安装 Java 和本书用例.md",
     "OnJava8-zh-master/docs/第 6 章 初始化和清理.md",
     "OnJava8-zh-master/docs/第 1 章 对象的概念.md",
-    "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
-    "image/PCLEIOT/fig2.png 1.md",
-    "image/PCLEIOT/fig2.png.md",
-    "note/image/PCLEIOT/fig2.png"
+    "image/PCLEIOT/fig2.png 1.md"
   ]
 }
