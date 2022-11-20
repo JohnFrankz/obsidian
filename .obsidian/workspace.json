@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/物联网设备的定期睡眠与激活.md",
+                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/物联网设备的定期睡眠与激活.md",
+                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/物联网设备的定期睡眠与激活.md"
+                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md"
               }
             }
           }
@@ -157,10 +158,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5f7df3d9e930229",
+  "active": "031c13c5679433fb",
   "lastOpenFiles": [
-    "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
     "note/物联网设备的定期睡眠与激活.md",
+    "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
     "note/物联网设备的定期睡眠与激活 (2)/物联网设备的定期睡眠与激活.md",
     "CSNote/408/操作系统/进程与线程/同步与互斥.md",
     "CSNote/408/操作系统/进程与线程/处理机调度.md",
