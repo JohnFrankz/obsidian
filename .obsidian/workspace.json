@@ -30,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "765ea955188334f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/物联网导论讲义.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
+                "file": "note/物联网设备的定期睡眠与激活.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
+                "file": "note/物联网设备的定期睡眠与激活.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/Periodically ctivating and leeping evices in Internet of Things 简记.md"
+                "file": "note/物联网设备的定期睡眠与激活.md"
               }
             }
           }
@@ -158,17 +169,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "031c13c5679433fb",
+  "active": "e5f7df3d9e930229",
   "lastOpenFiles": [
-    "note/物联网设备的定期睡眠与激活.md",
+    "note/物联网导论讲义.md",
     "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
+    "note/物联网设备的定期睡眠与激活.md",
     "note/物联网设备的定期睡眠与激活 (2)/物联网设备的定期睡眠与激活.md",
     "CSNote/408/操作系统/进程与线程/同步与互斥.md",
     "CSNote/408/操作系统/进程与线程/处理机调度.md",
     "note/image/PCLEIOT/fig5.png",
     "OnJava8-zh-master/docs/第 2 章 安装 Java 和本书用例.md",
     "OnJava8-zh-master/docs/第 6 章 初始化和清理.md",
-    "OnJava8-zh-master/docs/第 1 章 对象的概念.md",
-    "image/PCLEIOT/fig2.png 1.md"
+    "OnJava8-zh-master/docs/第 1 章 对象的概念.md"
   ]
 }
