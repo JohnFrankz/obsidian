@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/实验结果对比.md",
+                "file": "note/物联网导论讲义精简.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/实验结果对比.md",
+                "file": "note/物联网导论讲义精简.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/实验结果对比.md"
+                "file": "note/物联网导论讲义精简.md"
               }
             }
           }
@@ -171,11 +171,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6809689432edbec9",
+  "active": "e1918a17f9f8b0b2",
   "lastOpenFiles": [
+    "note/实验结果对比.md",
     "note/物联网设备的定期睡眠与激活.md",
     "note/物联网导论讲义精简.md",
-    "note/实验结果对比.md",
     "note/物联网导论讲义.md",
     "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
     "note/物联网设备的定期睡眠与激活 (2)/物联网设备的定期睡眠与激活.md",
