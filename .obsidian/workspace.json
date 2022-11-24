@@ -4,17 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "eaba51c203405ebe",
+        "id": "4c21f04295210453",
         "type": "tabs",
         "children": [
+          {
+            "id": "117f96bd475914f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/物联网设备的定期睡眠与激活.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
           {
             "id": "e5f7df3d9e930229",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/物联网设备的定期睡眠与激活.md",
-                "mode": "source",
+                "file": "note/物联网导论讲义精简.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6809689432edbec9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/实验结果对比.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db37088a4451460f",
@@ -146,17 +169,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5f7df3d9e930229",
+  "active": "117f96bd475914f9",
   "lastOpenFiles": [
+    "note/物联网导论讲义精简.md",
+    "note/实验结果对比.md",
+    "note/物联网设备的定期睡眠与激活.md",
     "note/物联网导论讲义.md",
     "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
-    "note/物联网设备的定期睡眠与激活.md",
     "note/物联网设备的定期睡眠与激活 (2)/物联网设备的定期睡眠与激活.md",
     "CSNote/408/操作系统/进程与线程/同步与互斥.md",
     "CSNote/408/操作系统/进程与线程/处理机调度.md",
     "note/image/PCLEIOT/fig5.png",
-    "OnJava8-zh-master/docs/第 2 章 安装 Java 和本书用例.md",
-    "OnJava8-zh-master/docs/第 6 章 初始化和清理.md",
-    "OnJava8-zh-master/docs/第 1 章 对象的概念.md"
+    "OnJava8-zh-master/docs/第 2 章 安装 Java 和本书用例.md"
   ]
 }
