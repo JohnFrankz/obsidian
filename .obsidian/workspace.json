@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/实验结果对比.md",
-                "mode": "preview",
+                "file": "blog/Web/tomcat/tomcat log 中文乱码 以及将输出信息变为英文.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/实验结果对比.md",
+                "file": "blog/Web/tomcat/tomcat log 中文乱码 以及将输出信息变为英文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/实验结果对比.md",
+                "file": "blog/Web/tomcat/tomcat log 中文乱码 以及将输出信息变为英文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/实验结果对比.md"
+                "file": "blog/Web/tomcat/tomcat log 中文乱码 以及将输出信息变为英文.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "6809689432edbec9",
   "lastOpenFiles": [
-    "note/物联网导论讲义精简.md",
     "note/实验结果对比.md",
+    "note/物联网导论讲义精简.md",
     "note/物联网设备的定期睡眠与激活.md",
     "note/物联网导论讲义.md",
     "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
