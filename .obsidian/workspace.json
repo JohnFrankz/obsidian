@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/J2EE/HouseInfo.md",
+                "file": "note/物联网导论讲义精简.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/J2EE/HouseInfo.md",
+                "file": "note/物联网导论讲义精简.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/J2EE/HouseInfo.md",
+                "file": "note/物联网导论讲义精简.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/J2EE/HouseInfo.md"
+                "file": "note/物联网导论讲义精简.md"
               }
             }
           }
@@ -160,15 +160,15 @@
   },
   "active": "24374d73c5237d8e",
   "lastOpenFiles": [
-    "blog/Web/tomcat/tomcat log 中文乱码 以及将输出信息变为英文.md",
+    "note/物联网设备的定期睡眠与激活.md",
+    "note/Idea 小技巧.md",
+    "Pasted image 20221116230006.png",
     "note/J2EE/HouseInfo.md",
+    "blog/Web/tomcat/tomcat log 中文乱码 以及将输出信息变为英文.md",
     "note/未命名.md",
     "note/实验结果对比.md",
     "note/物联网导论讲义精简.md",
-    "note/物联网设备的定期睡眠与激活.md",
     "note/物联网导论讲义.md",
-    "note/Periodically ctivating and leeping evices in Internet of Things 简记.md",
-    "note/物联网设备的定期睡眠与激活 (2)/物联网设备的定期睡眠与激活.md",
-    "CSNote/408/操作系统/进程与线程/同步与互斥.md"
+    "note/Periodically ctivating and leeping evices in Internet of Things 简记.md"
   ]
 }
